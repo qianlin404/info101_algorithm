@@ -1,32 +1,19 @@
-## Welcome to GitHub Pages
+## Algorithms
 
-You can use the [editor on GitHub](https://github.com/qianlin404/info101_algorithm/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This article is a Reusable Learning Object (RLO) created specifically for INFO 101. This article may be used as an auxiliary material to teach introductory computer science algorithms, including sorting and searching.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction to Algorithms
 
-### Markdown
+What are algorithms and why we use them? Recall the definition to we made in class, an algorithm is simply a step-by-step process where each step must be followed precisely and be carried out in a prescribed order ending in a finite result. In other word, an algorithm is just a method we use to yield promised results and solve problems including but not limited to: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Sorting
+* Searching
+* Pattern Recognizing 
+* Optimization
+* …
 
-```markdown
-Syntax highlighted code block
+But why we want to use algorithms, or why we prefer one algorithm over another? Well, the short answer is we want to get better results with using less time and resources. For example, you don’t want to wait minutes just for loading a webpage. And you don’t want to run out of all your computer memory just for classifying an image. Thus, different algorithms are often compared in terms of quality of results (e.g. accuracy) and resources consumed (e.g. time, memory). In this article, we will describe introductory sorting and searching algorithms and compares their performance. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
