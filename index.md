@@ -4,22 +4,6 @@
 
 layout: home
 ---
-<style>
-
-div.tooltip {	
-    position: absolute;			
-    text-align: center;			
-    width: 60px;					
-    height: 28px;					
-    padding: 2px;				
-    font: 12px sans-serif;		
-    background: lightsteelblue;	
-    border: 0px;		
-    border-radius: 8px;			
-    pointer-events: none;			
-}
-
-</style>
 
 <script src="https://d3js.org/d3.v5.min.js"></script>
 
