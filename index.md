@@ -19,7 +19,7 @@ But why we want to use algorithms, or why we prefer one algorithm over another? 
 Sorting can help us finding an element in a list more quickly. We will show how in the next section. Before discussing sorting algorithm, let’s warm-up with a famous interview question named “heavier ball”:
 
 
-O(n^2)$
+$O(n^2)$
 
 ### Support or Contact
 
