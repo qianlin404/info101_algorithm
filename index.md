@@ -1,4 +1,3 @@
-## Algorithms
 
 This article is a Reusable Learning Object (RLO) created specifically for INFO 101. This article may be used as an auxiliary material to teach introductory computer science algorithms, including sorting and searching.
 
