@@ -14,9 +14,12 @@ What are algorithms and why we use them? Recall the definition to we made in cla
 But why we want to use algorithms, or why we prefer one algorithm over another? Well, the short answer is we want to get better results with using less time and resources. For example, you don’t want to wait minutes just for loading a webpage. And you don’t want to run out of all your computer memory just for classifying an image. Thus, different algorithms are often compared in terms of quality of results (e.g. accuracy) and resources consumed (e.g. time, memory). In this article, we will describe introductory sorting and searching algorithms and compares their performance. 
 
 
-### Jekyll Themes
+### Sorting
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qianlin404/info101_algorithm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Sorting can help us finding an element in a list more quickly. We will show how in the next section. Before discussing sorting algorithm, let’s warm-up with a famous interview question named “heavier ball”:
+
+
+O(n^2)$
 
 ### Support or Contact
 
